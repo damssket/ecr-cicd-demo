@@ -20,9 +20,9 @@
         "ecr:CompleteLayerUpload"
       ],
       "Resource": [
-        "arn:aws:ecr:REGION:us-east-1:381492100137/capstone-demo-dev",
-        "arn:aws:ecr:REGION:us-east-1:381492100137/capstone-demo-staging",
-        "arn:aws:ecr:REGION:us-east-1:381492100137/capstone-demo-prod"
+        "arn:aws:ecr:REGION:us-east-1:637423446371:repository/capstone-demo-dev",
+        "arn:aws:ecr:REGION:us-east-1:637423446371:repository/capstone-demo-staging",
+        "arn:aws:ecr:REGION:us-east-1:637423446371:repository/capstone-demo-prod"
       ]
     }
   ]
